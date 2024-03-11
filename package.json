@@ -1,0 +1,27 @@
+{
+  "name": "sumify_oolong",
+  "version": "1.0.0",
+  "description": "Sumify is a lightweight JavaScript library designed to efficiently calculate the sum of a set of numeric values. With Sumify, you can quickly aggregate data and perform mathematical operations, making it ideal for various applications, including financial analysis and data processing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sumify_oolong": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HammetteGelles/sumify.git"
+  },
+  "homepage": "https://github.com/HammetteGelles/sumify/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "HammetteGelles",
+  "license": "MIT"
+}
